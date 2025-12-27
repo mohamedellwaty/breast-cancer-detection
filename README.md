@@ -12,7 +12,7 @@ Adam Mohamed Foda
 
 Taspih  
 
-• Contributions: Custom CNN model design  
+• Contributions: Custom CNN model design and evaluation metrics
 
 Asseel 
 
@@ -20,7 +20,7 @@ Asseel
 
 Toqa  
 
-• Contributions: Training loop, evaluation metrics, and optimization 
+• Contributions: Training loop, main , and optimization 
 
 Project Overview 
 
